@@ -12,6 +12,7 @@ namespace Test.Core
         private SpriteBatch _spriteBatch;
         private GameStateManager gsm;
         //Texture2D tx;
+        //Asset EiEi
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
