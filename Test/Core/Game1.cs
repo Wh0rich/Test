@@ -13,6 +13,8 @@ namespace Test.Core
         private GameStateManager gsm;
         //Texture2D tx;
 
+        //Inventory
+        //ConTroler
         //Asset EiEi
 
         //Inventory
