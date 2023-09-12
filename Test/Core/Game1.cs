@@ -13,7 +13,7 @@ namespace Test.Core
         private GameStateManager gsm;
         //Texture2D tx;
         //Inventory
-        //
+        //ConTroler
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
